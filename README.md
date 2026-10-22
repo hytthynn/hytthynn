@@ -15,5 +15,3 @@
   <code><img height="25" alt="Visual Studio Code" src="images/skills/vscode.svg"> VS Code</code>
   <code><img height="25" alt="Git" src="images/skills/git.svg"> Git</code>
 </div>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hytthynn&theme=vue&hide_title=true&hide_border=true&bg_color=false&color=CDF773&line=CDF773&point=CDF773" width="100%"/>
